@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: moca-hcho
+Upstream-Contact: Joonas Javanainen <joonas.javanainen@gmail.com>
+Source: https://github.com/Gekkio/moca-hcho
+
+Files: hw/*
+Copyright: 2021-2022 Joonas Javanainen <joonas.javanainen@gmail.com>
+License: CC-BY-4.0
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
